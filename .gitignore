@@ -1,0 +1,25 @@
+# Java compiled classes
+*.class
+bin/
+out/
+
+# Maven / Gradle files (if using)
+target/
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files (optional: if you don't want to commit runtime data)
+data/books.txt
+data/members.txt
+
+# Temporary files
+*.tmp
+*.swp
